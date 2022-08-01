@@ -1,1 +1,1 @@
-# AB-Testi-ile-BiddingY-ntemlerinin-D-n-m-n-n-Kar-la-t-r-lmas-
+# AB-Testi ile Bidding Yontemlerinin Donusumlerinin Karsilastirilmasi
