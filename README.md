@@ -1,4 +1,4 @@
-# AB-Testi ile Bidding Yontemlerinin Donusumlerinin Karsilastirilmasi
+# Comparing Bidding Methods for Bombabomba.com using A/B Testing.
 
 
 Story: Lately, Facebook (Meta) launched a bidding system called 'MAXIMUM BIDDING' as an alternative
