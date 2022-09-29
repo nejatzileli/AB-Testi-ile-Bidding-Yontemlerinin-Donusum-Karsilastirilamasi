@@ -21,8 +21,8 @@ H1: Variences are not homogenous.
 p<0.05 H0 is rejected.
 p>0.05 H0 failed to reject.
 3. Since both assumptions are true, we use T-TEST (PARAMETRIC).
-# H0: M1 = M2 (There is no difference between purchase means of control group and the test group.
-# H1: M1 != M2 (Statistically, there is a difference betweeen purchase means of the control and test group.
+H0: M1 = M2 (There is no difference between purchase means of control group and the test group.
+H1: M1 != M2 (Statistically, there is a difference betweeen purchase means of the control and test group.
 
 
 
